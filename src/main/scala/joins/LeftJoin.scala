@@ -1,7 +1,7 @@
-package main.scala.joins
+package com.eggerling.scalajoins.joins
 
-import main.scala.comparisons.{Equalable, LessThanable}
-import main.scala.utils.BinarySearch.binaryFilter
+import com.eggerling.scalajoins.comparisons.{Equalable, LessThanable}
+import com.eggerling.scalajoins.utils.BinarySearch.binaryFilter
 
 object LeftJoin {
 

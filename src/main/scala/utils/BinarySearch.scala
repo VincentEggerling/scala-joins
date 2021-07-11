@@ -1,6 +1,6 @@
-package main.scala.utils
+package com.eggerling.scalajoins.utils
 
-import main.scala.comparisons.{Equalable, LessThanable}
+import com.eggerling.scalajoins.comparisons.{Equalable, LessThanable}
 
 import scala.annotation.tailrec
 

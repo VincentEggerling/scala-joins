@@ -1,7 +1,7 @@
-package main.scala.joins
+package com.eggerling.scalajoins.comparisons.joins
 
-import main.scala.comparisons.Equalable
-import main.scala.joins.LeftJoin.leftLinear
+import com.eggerling.scalajoins.comparisons.Equalable
+import com.eggerling.scalajoins.joins.LeftJoin.leftLinear
 
 object InnerJoin {
 

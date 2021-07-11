@@ -1,7 +1,7 @@
-package test.scala.utils
+package com.eggerling.scalajoins.testing
 
-import main.scala.utils.BinarySearch.{binaryFilter, binaryFindIndex, takeAroundWhile, takeLeftWhile, takeRightWhile}
 import org.scalatest.funsuite.AnyFunSuite
+import com.eggerling.scalajoins.utils.BinarySearch._
 
 class BinarySearchTest extends AnyFunSuite {
   test("binaryFindIndex") {

@@ -1,4 +1,4 @@
-package main.scala.comparisons
+package com.eggerling.scalajoins.comparisons
 
 trait LessThanable[A,B] {
   def lt(a: A,b: B): Boolean

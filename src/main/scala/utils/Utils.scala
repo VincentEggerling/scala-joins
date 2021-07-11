@@ -1,4 +1,4 @@
-package main.scala.utils
+package com.eggerling.scalajoins.utils
 
 object Utils {
 

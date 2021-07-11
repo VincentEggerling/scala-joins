@@ -1,4 +1,4 @@
-package main.scala.comparisons
+package com.eggerling.scalajoins.comparisons
 
 trait Equalable[A,B] {
   def eq(a:A, b:B): Boolean

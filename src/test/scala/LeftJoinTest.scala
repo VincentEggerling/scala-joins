@@ -1,8 +1,9 @@
-package test.scala.utils
+package com.eggerling.scalajoins.testing
 
-import main.scala.comparisons.{Equalable, LessThanable}
-import main.scala.joins.LeftJoin.{leftBinary, leftLinear, toCartesian}
 import org.scalatest.funsuite.AnyFunSuite
+import com.eggerling.scalajoins.comparisons.{Equalable, LessThanable}
+import com.eggerling.scalajoins.joins.LeftJoin.{leftBinary, leftLinear, toCartesian}
+
 
 class LeftJoinTest extends AnyFunSuite {
   test("leftLinearDirectComp Int-Int") {
